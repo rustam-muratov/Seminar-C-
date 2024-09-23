@@ -18,7 +18,7 @@
 bool isLetterVowels(char)
 {
     char[] vowels = { 'a', 'e', 'i', 'u', 'q', 'j' };
-    foreach (char item in vowels)
+    foreach(char item in vowels)
     {
         if (vowels == item)
         {
